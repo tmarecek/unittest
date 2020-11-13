@@ -1,6 +1,6 @@
 import unittest
 
-
+# This is the class we want to test. So, we need to import it
 from main import Person
 
 
